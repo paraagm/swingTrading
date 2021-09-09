@@ -18,3 +18,7 @@ To use an open source library:
 
 2. Now you can use it inside your program
     import <library_name>
+
+To add a library on Pycharm. File -> Settings -> Python interpreter -> + -> Find your library and add.
+
+NSEpy - The nsepy package is used to get the stock market data for the futures and options for Indian stocks and indices.
